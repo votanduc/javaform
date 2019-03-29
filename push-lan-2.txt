@@ -1,0 +1,8 @@
+//dau tien
+git add "file can add" or git add .
+
+//thu 2
+git commit -m "loi nhan cho lan 2 push"
+
+//thu 3
+git push origin master
